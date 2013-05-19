@@ -1,0 +1,6 @@
+t/circleArea.t
+t/compound.t
+t/isFloat.t
+t/isNatural.t
+t/isPrime.t
+t/sumTotal.t

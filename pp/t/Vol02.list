@@ -1,0 +1,6 @@
+t/full2half.t
+t/pattern.t
+t/arrayShuffle.t
+t/shash.t
+t/fetchPrefecture.t
+t/mark.t

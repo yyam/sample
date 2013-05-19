@@ -1,0 +1,2 @@
+SHA1(t/isPositive.t)= 9aab7a14ff39d94fcfb9a93771b61cc69213a3d3
+SHA1(t/sumTotal.t)= 705d46e371daf9c4d732bcca3db7115e4066e7a1
